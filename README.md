@@ -1,7 +1,5 @@
 # toolsR
-[![Awesome](00052.png)](https://github.com/sindresorhus/awesome)
-
-
+[![Awesome](https://raw.githubusercontent.com/Stat-R/toolsR/master/00052.png)]
 We are simply avoiding the real issue
 ## Subtitle
 
